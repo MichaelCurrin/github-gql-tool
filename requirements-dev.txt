@@ -6,3 +6,4 @@ flake8>=3.9.2
 mypy>=0.910
 
 isort>=5.9.3
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
